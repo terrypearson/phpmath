@@ -1,5 +1,5 @@
 Modified by:
-  Terry Pearson 2015 terry.ipearson.net
+  Terry Pearson 2015 http://terry.ipearson.net
 
 Work based on EvalMath:
-    Copyright 2005, Miles Kaufmann www.twmagic.com .
+    Copyright 2005, Miles Kaufmann http://www.twmagic.com .
